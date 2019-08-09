@@ -1,0 +1,13 @@
+.Header{
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    /* border: 1px solid black; */
+    height: 7vh;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color:var(--main-navbar-color);
+    color: var(--main-text-color);
+}

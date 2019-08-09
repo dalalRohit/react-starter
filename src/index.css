@@ -1,0 +1,21 @@
+:root{
+    /* WENGE */
+    --main-navbar-color:#655560; 
+    /* GHOST WHITE */
+    --main-text-color:#FCF7FF;
+    /* LAVENDER GRAY */
+    --main-hover-color:#C4CAD0;
+    /* SPANISH GRAY */
+    --main-sidenav-color:#A4969B;
+    /* ROMAN SILVER */
+    --secondary-color:#878C8F;
+
+    --text-font:'Montserrat', sans-serif;
+
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
+}

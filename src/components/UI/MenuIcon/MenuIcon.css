@@ -1,0 +1,9 @@
+.Icon{
+    display: none;
+}
+
+@media(max-width:699px){
+    .Icon{
+        display: block;
+    }
+}

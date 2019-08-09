@@ -1,0 +1,14 @@
+.Main{
+    font-family: 'B612 Mono', monospace;
+    width: 100%;
+    max-width: 100%;
+    /* border: 1px solid red; */
+    background-color: #eee;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    height: 86vh;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
